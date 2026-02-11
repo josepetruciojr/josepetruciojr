@@ -13,10 +13,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-![W3C Validation](https://img.shields.io/w3c-validation/:parser)
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
