@@ -22,12 +22,9 @@
 ## `Além da programação`
 - Passear e estar com a família é essencial.
 - Jogar meu futebol.
-- Jogar meu Tibia quando tenho um espaço nas horas vagas.(Sem vício)
-- Pegar minhas ferramentas e inventar algo para dentro de casa.
+- Jogar meu Tibia quando tenho um espaço nas horas vagas.
+- Pegar minhas ferramentas e inventar algo para usar em casa.
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jrpet123&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **josepetruciojr/josepetruciojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
