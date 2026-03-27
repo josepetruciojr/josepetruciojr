@@ -36,17 +36,11 @@ Atualmente, estou evoluindo através de projetos práticos e estudos constantes,
 </p>
 
 ---
-
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josepetruciojr&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepetruciojr&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=josepetruciojr&theme=github-dark&hide_border=true" />
+</p>
 ---
 
 ## 📚 Em evolução constante
