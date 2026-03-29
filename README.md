@@ -15,7 +15,7 @@
 
 Sou um desenvolvedor com foco em **Back-end Java**, dedicado a construir aplicações bem estruturadas, seguras e escaláveis.
 
-Tenho experiência com **Programação Orientada a Objetos (POO)**, tratamento de exceções, organização de projetos e integração com APIs, sempre aplicando boas práticas como **Clean Code**.
+Tenho experiência com **Programação Orientada a Objetos (POO)**, tratamento de exceções, organização de projetos e integração com APIs, sempre aplicando boas práticas.
 
 Atualmente, estou evoluindo com projetos práticos utilizando **Spring Boot e PostgreSQL**, com foco em entrar no mercado como **Desenvolvedor Júnior ou Estagiário**.
 
@@ -33,7 +33,6 @@ Atualmente, estou evoluindo com projetos práticos utilizando **Spring Boot e Po
 <br/>
 
 <img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Exception%20Handling-0D1117?style=for-the-badge&logoColor=FFA500" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
