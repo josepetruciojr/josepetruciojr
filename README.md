@@ -8,16 +8,35 @@
 <p align="center">
   <i>Desenvolvedor Back-end em formação • Java • APIs REST • Construindo soluções robustas</i>
 </p>
+<p align="center">
+  <i>“Código limpo não é escrito por acaso, é construído com disciplina.”</i>
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josepetruciojr">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Busco atuar como Desenvolvedor Back-end(Estágio ou Júnior), sigo firme e focado no aprendizado contínuo e buscando conhecimento para contribuir em projetos reais.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor com foco em **Back-end Java**, dedicado a construir aplicações bem estruturadas, seguras e escaláveis.
+Sou desenvolvedor com foco em Back-end utilizando Java, dedicado a construir aplicações bem estruturadas, seguras e escaláveis.
 
-Tenho experiência com **Programação Orientada a Objetos (POO)**, tratamento de exceções, organização de projetos e integração com APIs, sempre aplicando boas práticas.
+Tenho experiência com POO, tratamento de exceções, organização de projetos e integração com APIs, sempre aplicando boas práticas.
 
-Atualmente, estou evoluindo com projetos práticos utilizando **Spring Boot e PostgreSQL**, com foco em entrar no mercado como **Desenvolvedor Júnior ou Estagiário**.
+Atualmente, estou evoluindo com projetos práticos utilizando Spring Boot e integrações com Bancos de dados, com foco em entrar no mercado como **Desenvolvedor Júnior ou Estagiário**.
 
 ---
 
@@ -28,11 +47,9 @@ Atualmente, estou evoluindo com projetos práticos utilizando **Spring Boot e Po
 <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=F89820" />
 <img src="https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/OOP-0D1117?style=for-the-badge&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 
@@ -61,22 +78,6 @@ Atualmente, estou evoluindo com projetos práticos utilizando **Spring Boot e Po
 
 ---
 
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como **Desenvolvedor Back-end (Estágio ou Júnior)**, com foco em aprendizado contínuo e contribuição em projetos reais.
-
----
-
-## 📫 Contato
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/josepetruciojr">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>“Código limpo não é escrito por acaso, é construído com disciplina.”</i>
+  <i>“Não sabendo que era impossível, ele foi lá e fez.”</i>
 </p>
